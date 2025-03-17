@@ -23,7 +23,7 @@ Data cleaning and Analysis using SQL
 [Retail_data](https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda/data)
 
 <h1 align="center">Insights</h1>
-The analysis of our retail operations reveals several key patterns in customer behavior and sales metrics. Our platform serves 42,763 customers who have completed 187,549 transactions, generating total revenue of $23,458,921. The business maintains a customer retention rate of 78.4% and shows a customer acquisition growth of 15.3% year-over-year, demonstrating the business's positive trajectory.
+Our platform serves a diverse customer base across various age groups, generating total seasonal sales of approximately $5,059,786,766.14, with Winter showing the highest seasonal sales at $1,266,673,200.10. Customer retention appears to stabilize around an average rate of 50% across membership years, reflecting consistency in engagement. Payment methods contribute nearly evenly to sales, with Credit Cards leading slightly at $1,268,594,134.71.
 
 ## Demographic Insights and Purchasing Behavior
 - Income bracket analysis shows relatively consistent discount usage across all income segments with an average discount usage of 25% 

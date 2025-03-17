@@ -1,7 +1,7 @@
---- SQL CLEANING & ANALYSIS -> []()
-Retail Data Analysis: Customer Behavior & Sales Patterns
-<h1 align="center">Introduction</h1>
+--- SQL CLEANING & ANALYSIS -> [Retail_data_sql_markdown](https://github.com/AndyeliSays/Retail-Sales-Customer-Behavior/blob/main/retail_data_sql.md)
 
+<h1 align="center">Retail Data Analysis: Customer Behavior & Sales Patterns</h1>
+Introduction: 
 This project delves into a comprehensive retail dataset with a million rows, 78 columns to uncover actionable intelligence that can drive business growth and enhance customer experience. 
 The dataset consists of 1 retail_data tables containing columns: 
 <img src=https://github.com/AndyeliSays/Retail-Sales-Customer-Behavior/blob/main/assets/retail_data_variables.png >

@@ -4,7 +4,7 @@ Retail Data Analysis: Customer Behavior & Sales Patterns
 
 This project delves into a comprehensive retail dataset with a million rows, 78 columns to uncover actionable intelligence that can drive business growth and enhance customer experience. 
 The dataset consists of 1 retail_data tables containing columns: 
-<img src=https://github.com/AndyeliSays/Retail-Sales-Customer-Behavior/blob/main/assets/retail_data_variables.png  width="300" >
+<img src=https://github.com/AndyeliSays/Retail-Sales-Customer-Behavior/blob/main/assets/retail_data_variables.png >
 
 ## Business Task & Objectives:
 This analysis transforms extensive retail sales and customer data into strategic insights to optimize retail operations and marketing strategies. Using SQL, we explore key business questions including:

@@ -25,13 +25,12 @@ Data cleaning and Analysis using SQL
 <h1 align="center">Insights</h1>
 Our platform serves a diverse customer base across various age groups, generating total seasonal sales of approximately $5,059,786,766.14, with Winter showing the highest seasonal sales at $1,266,673,200.10. 
 Customer retention appears to stabilize around an average rate of 50% across membership years, reflecting consistency in engagement. 
-Payment methods contribute nearly evenly to sales, with Credit Cards leading slightly at $1,268,594,134.71.
 
 ## Demographic Insights and Purchasing Behavior
 - Income bracket analysis shows relatively consistent discount usage across all income segments with an average discount usage of 25% 
 - Customers aged (50+) are our highest-value segment, generating ($2,366,681,873.20) in total sales with (36-50) age group follows with ($1,222,789,701.01) in sales.
 - Younger demographics show lower but substantial contributions: (26-35) age group ($816,430,757.71) and (18-25) age group ($650,157,433.22)
-This age distribution highlights the importance of our mature customer base, with over 50% of revenue coming from customers aged 50+. This suggests opportunities for targeted marketing to younger demographics to build long-term customer value.
+This age distribution highlights the importance of our mature customer base, with over 50% of revenue coming from customers aged 50+.
 The uniform discount utilization across income brackets suggests our pricing and promotion strategies appeal equally to all customer segments regardless of income level.
 
 ## Product Performance and Category
@@ -47,7 +46,7 @@ The uniform discount utilization across income brackets suggests our pricing and
 This uniformity in return rates suggests standardized quality across categories, though there are individual products with higher return rates that warrant attention, such as Product #5179 with a 2.16% return rate.
 
 ## Product Basket
-- Payment method analysis shows balanced contributions across transaction types with Credit Cards, Cash, Mobile Payments, and Debit Cards all making up about a quarter of the sales.
+- Payment method analysis shows balanced contributions across transaction types with Credit Cards, Cash, Mobile Payments, and Debit Cards all making up about a quarter of the sales. Credit Cards leading slightly at $1,268,594,134.71.
 - Product age analysis reveals potential correlation between product age and return rates with odler products having higher return rates.
 
 ## Recommendations

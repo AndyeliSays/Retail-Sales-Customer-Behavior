@@ -23,7 +23,9 @@ Data cleaning and Analysis using SQL
 [Retail_data](https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda/data)
 
 <h1 align="center">Insights</h1>
-Our platform serves a diverse customer base across various age groups, generating total seasonal sales of approximately $5,059,786,766.14, with Winter showing the highest seasonal sales at $1,266,673,200.10. Customer retention appears to stabilize around an average rate of 50% across membership years, reflecting consistency in engagement. Payment methods contribute nearly evenly to sales, with Credit Cards leading slightly at $1,268,594,134.71.
+Our platform serves a diverse customer base across various age groups, generating total seasonal sales of approximately $5,059,786,766.14, with Winter showing the highest seasonal sales at $1,266,673,200.10. 
+Customer retention appears to stabilize around an average rate of 50% across membership years, reflecting consistency in engagement. 
+Payment methods contribute nearly evenly to sales, with Credit Cards leading slightly at $1,268,594,134.71.
 
 ## Demographic Insights and Purchasing Behavior
 - Income bracket analysis shows relatively consistent discount usage across all income segments with an average discount usage of 25% 
@@ -32,19 +34,19 @@ Our platform serves a diverse customer base across various age groups, generatin
 This age distribution highlights the importance of our mature customer base, with over 50% of revenue coming from customers aged 50+. This suggests opportunities for targeted marketing to younger demographics to build long-term customer value.
 The uniform discount utilization across income brackets suggests our pricing and promotion strategies appeal equally to all customer segments regardless of income level.
 
-## Product Performance and Category Analysis
+## Product Performance and Category
 - 4,851 products performing above average (PPI > 600,768.85)
 - 5,148 products performing below average (PPI < 600,768.85)
 -Top performing products show exceptional results:
-  Product #8325: PPI of 961,676.89 (60% above average)
-  Product #5427: PPI of 947,950.41 (58% above average)
-  Product #5181: PPI of 925,316.14 (54% above average)
-  Product #8756: PPI of 915,409.87 (52% above average)
-  Product #6019: PPI of 914,851.33 (52% above average)
+  - Product #8325: PPI of 961,676.89 (60% above average)
+  - Product #5427: PPI of 947,950.41 (58% above average)
+  - Product #5181: PPI of 925,316.14 (54% above average)
+  - Product #8756: PPI of 915,409.87 (52% above average)
+  - Product #6019: PPI of 914,851.33 (52% above average)
 - Return rates are very consistent across product categories with an average return rate of 1.8%.
 This uniformity in return rates suggests standardized quality across categories, though there are individual products with higher return rates that warrant attention, such as Product #5179 with a 2.16% return rate.
 
-## Product basket analysis 
+## Product Basket
 - Payment method analysis shows balanced contributions across transaction types with Credit Cards, Cash, Mobile Payments, and Debit Cards all making up about a quarter of the sales.
 - Product age analysis reveals potential correlation between product age and return rates with odler products having higher return rates.
 

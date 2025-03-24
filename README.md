@@ -49,7 +49,8 @@ Customer retention appears to stabilize around an average rate of 50% across mem
 - Payment method analysis shows balanced contributions across transaction types with Credit Cards, Cash, Mobile Payments, and Debit Cards all making up about a quarter of the sales. Credit Cards leading slightly at $1,268,594,134.71.
 - Product age analysis reveals potential correlation between product age and return rates with odler products having higher return rates.
 
-## Recommendations
+<h1 align="center">Recommendations</h1>
+
 - Age-Based Marketing Strategy: Develop targeted campaigns to increase engagement with younger demographics (18-35) while maintaining strong relationships with 50+ customers who drive the majority of our revenue.
 - Evaluate the 5,148 below-average performing products to identify candidates for improvement or potential discontinuation, focusing resources on top performers.
 - Retention Program Enhancement: Implement a comprehensive retention strategy to improve the consistent 50% retention rate across all membership years.
